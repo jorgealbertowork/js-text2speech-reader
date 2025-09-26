@@ -123,10 +123,11 @@ main {
   background-color: darksalmon;
   color: #fff;
   font-size: 18px;
-  height: 100%;
   letter-spacing: 1px;
+  padding: 8px;
   text-align: center;
   text-transform: uppercase;
+  width: 100%;
 }
 
 @media (max-width: 1100px) {
